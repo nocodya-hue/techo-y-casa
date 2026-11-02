@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nocodya-hue.github.io/techo-y-casa/sitemap.xml
